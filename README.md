@@ -1,7 +1,11 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+
 - 👋 Hi, I’m Divyanshu Dobriyal
-- 👀 I’m interested in Android development                                                                   ![giphy](https://user-images.githubusercontent.com/78630426/120911990-37a0f480-c6a9-11eb-8085-22fa03095a31.gif)
+- 👀 I’m interested in Android development                                                                   
 - 🌱 I’m currently working on WhatsApp Clone
 - 💞️ I’m currently learning Competitive Programming
+- ⚡️ Skills: C++, Kotlin, Android, Sqlite
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divyanshu-dobriyal-97119b1b4/) | [Instagram](https://www.instagram.com/div.yan.shu/?hl=en/) ;
 
 
 
