@@ -1,6 +1,6 @@
 👋 Hi, I’m Divyanshu Dobriyal, an Android Developer. Besides programming, I enjoy watching movies🎬🍿.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+<img  align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
 ### ****About me:****
 
