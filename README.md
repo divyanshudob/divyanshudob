@@ -1,4 +1,5 @@
-👋 Hi, I’m Divyanshu Dobriyal, an Android Developer from India. Besides programming, I enjoy watching webshows and movies🎬🍿.
+👋 Hi, I’m Divyanshu Dobriyal, a second year undergrad pursuing B.Tech in CSE. Besides programming, I enjoy watching webshows and movies🎬🍿.
+
 
 <img  align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
 
