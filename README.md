@@ -22,9 +22,9 @@
 
 
 
-![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=divyanshudob&show_icons=true&hide_border=true)
-<img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="100">
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
+
+<code><img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width="100"></code>
+<code><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"></code>
 
 
 
