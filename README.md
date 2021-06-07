@@ -11,7 +11,7 @@
 - 🥺 Teach me **Data Structures and Algorithms**😭
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/divyanshu-dobriyal-97119b1b4/) | [Instagram](https://www.instagram.com/div.yan.shu/?hl=en/) ;
 
-### **Languages and tools::**
+### **Languages and tools:**
 
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
