@@ -1,7 +1,7 @@
 👋 Hi, I’m **Divyanshu Dobriyal**, a second year undergrad pursuing **B.Tech in CSE from Chandigarh University**. Besides programming, I enjoy watching webshows and movies🎬🍿.
 
 
-<img  width ="500" height="350" align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=1500w" />
+<img  width ="400" height="250" align="right" alt="GIF" src="https://miro.medium.com/max/1600/1*hwR_VDaY0wA5J4aPL6j9Zw.gif" />
 
 ### ****About me:****
 
@@ -19,6 +19,7 @@
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="22" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
 
 
 ![Divyanshu's github stats](https://github-readme-stats.vercel.app/api?username=divyanshudob&show_icons=true&hide_border=true)
