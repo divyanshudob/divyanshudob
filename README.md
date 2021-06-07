@@ -1,7 +1,7 @@
 👋 Hi, I’m **Divyanshu Dobriyal**, a second year undergrad pursuing **B.Tech in CSE from Chandigarh University**. Besides programming, I enjoy watching webshows and movies🎬🍿.
 
 
-<img  align="right" alt="GIF" src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" />
+<img  width ="500" height="350" align="right" alt="GIF" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif?format=1500w" />
 
 ### ****About me:****
 
