@@ -1,4 +1,4 @@
-👋 Hi, I’m **Divyanshu Dobriyal**, a second year undergrad pursuing **B.Tech in CSE from Chandigarh University**. Besides programming, I enjoy watching webshows and movies🎬🍿.
+👋 Hi, I’m **Divyanshu Dobriyal**, a third year undergrad pursuing **B.Tech in CSE from Chandigarh University**. Besides programming, I enjoy watching webshows and movies🎬🍿.
 
 
 <img  width ="400" height="250" align="right" alt="GIF" src="https://miro.medium.com/max/1600/1*hwR_VDaY0wA5J4aPL6j9Zw.gif" />
